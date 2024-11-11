@@ -1,4 +1,4 @@
-# Projet sportif BEAFIT PARK
+# Projet sportif BELAID'S PARK
 
 Ce projet est un site web de salle de sport pour la formation de DWWM du CNAM
 
